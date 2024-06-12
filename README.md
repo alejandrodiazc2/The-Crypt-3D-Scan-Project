@@ -3,6 +3,7 @@ A collaborative project using 3D scans from the crypt venue in Camberwell. AV pe
 immersive installation 
 ## Links
 <ul>
+
 <li><a href="https://www.youtube.com/watch?v=zzSYYw-khpw">Audio Visual Demo</a></li>
 <li><a href="https://www.youtube.com/watch?v=xj_bQgiA9XA">Latent Space Walkthrough</a></li>
 <li><a href="/scripts/">Unity Scripts</a></li>
@@ -29,6 +30,22 @@ The Crypt Project is a digital representation of the essence of a place. It is a
 This installation bridges the past and future, offering a sensory experience that honors the church's legacy while showcasing the potential of modern innovation.
 <br>
 We are drawing the past into the digital present, capturing the landmarks around us and permuting them into unseen configurations. The crypt plays a key part in the local community, both as a religious and cultural space. This project will create a line of communication between this site and the nearby CCI - encouraging dialogue between communities of people and between diverse approaches to creation.
+
+## Research
+Research
+St. Giles church history
+“Camberwell has … changed a lot since 1086. But there has been a church on the same site as the current building for nearly a 1,000 years – and probably for much longer. 
+The prefix of Camberwell, “Cam” can be translated as “crooked” and it’s likely that the area had natural Springs.  There’s a possibility that people suffering from ailments might have sought healing in the Springs because the church is named after St Giles, the patron saint of beggars, poor people and people with physical disabilities. The early church mentioned in the Domesday book is considered by some to have dated from within sixty years of the first landing of St. Augustine, or about the middle of the seventh century. It underwent extensive changes during the reign of King Stephen and was rebuilt in stone by William de Mellent, Earl of Gloucester and Lord of the Manor of Camberwell in 1154. 
+In 1841 a fire broke out that destroyed the medieval church. 
+After the lapse of a few days, it was announced that service would be conducted every Sunday in the morning, at the Collegiate, and in the afternoon, at the Green Coat School. A great deal of unnecessary excitement prevailed with regard to the circumstances connected with the fire. 
+” 
+St Giles’ Camberwell. (n.d.). History of St. Giles’. [online] Available at: https://www.stgilescamberwell.org/history-of-st-giles.
+
+Jazz live at The Crypt
+
+“JAZZLIVE at the Crypt was established in 1995 as St. Giles Jazz Club and quickly gained a deserved reputation as one of the UK’s premier jazz venues. JAZZLIVE teamed up with musicians collective 'Jazz Umbrella' in 2000 and the two organizations were merged shortly afterwards to establish a charity and a trading arm dedicated to promoting jazz and jazz education. Its weekly Friday night concerts have featured the top musicians from London, the UK and Europe, and beyond.
+With its ancient and varied history, the Crypt is the perfect setting for a live jazz venue” (https://www.jazzlive.co.uk/about.html)
+
 
 ## Technology & Tools
 
@@ -65,7 +82,6 @@ There is a necessity for more high-quality photos and videos to aid the photogra
 Once the model is done the idea would be to generate an immersive VR/AR experience in the 3DGS model where other point cloud audio reactive artworks can be displayed as in an art gallery.
 <br>
 The VFX splat graph is not fully implemented as the technology is quite new, so its important new plug-ins are developed to be able to have more interactive and dynamic 3DGS models.
-
 ## Project Images
 <small><em>This image is from an art installation titled "Embedded/Embodied" which the group visited in Amsterdam. The idea of physically exploring a ML model was a point of inspiration for the project. Source: https://www.arashakbari.com/embedded_embodied</em></small>
 <image src="images/EmbeddedEmboddied.jpeg">
