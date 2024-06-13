@@ -6,7 +6,7 @@ immersive installation
 
 <li><a href="https://www.youtube.com/watch?v=zzSYYw-khpw">Audio Visual Demo</a></li>
 <li><a href="https://www.youtube.com/watch?v=xj_bQgiA9XA">Latent Space Walkthrough</a></li>
-<li><a href="https://youtu.be/fRDosbUNRPs"
+<li><a href="https://youtu.be/fRDosbUNRPs">Summary & thoughts </a></li>
 <li><a href="/scripts/">Unity Scripts</a></li>
 <li><a href="/point-files/">Point Cloud Files</a></li>
 <li><a href="https://youtu.be/KsOUHFzbIe4">Play testing</a></li>
